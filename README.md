@@ -32,7 +32,3 @@ method.
 | `plot.png` | the resulting trajectory and x(t) |
 
 Needs Python 3 with NumPy and Matplotlib.
-
-## Licence
-
-MIT, see `LICENSE`.
